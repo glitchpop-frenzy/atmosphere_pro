@@ -94,7 +94,7 @@ dependency_overrides:
   at_client_mobile:
     git:
       url: https://github.com/atsign-foundation/at_client_sdk.git
-      ref: bugfix/keychain-store-key
+      ref: feature/at-client-mobile-2.0
       path: at_client_mobile
   at_contacts_group_flutter: 
     git:
